@@ -5,16 +5,17 @@ export default function Hero() {
         <p className="mb-4 text-emerald-400">Hi, my name is</p>
 
         <h1 className="text-5xl font-bold text-white md:text-7xl">
-          Your Name.
+          Mawethu Madanile.
         </h1>
 
         <h2 className="mt-2 text-3xl font-bold text-slate-400 md:text-5xl">
-          Your Job Title.
+          Junior Cloud &amp; AI Engineer.
         </h2>
 
         <p className="mt-6 max-w-xl text-lg text-slate-400">
-          A short sentence about what you build and what you care about.
-          Replace this with your own intro.
+          I design and deploy cloud-based AI applications with Python, FastAPI,
+          Docker and AWS. I'm finishing my Software Engineering qualification
+          at WeThinkCode_ and looking for a role in cloud and AI engineering.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-4">
