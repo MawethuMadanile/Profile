@@ -3,9 +3,8 @@ export default function Contact() {
     <section id="contact" className="py-24">
       <div className="mx-auto max-w-2xl px-6 text-center">
         <h2 className="mb-4 flex items-center justify-center gap-4 text-2xl font-bold text-white">
-          <span className="text-emerald-400">04.</span> Get in touch
+          <span className="text-emerald-400">05.</span> Get in touch    
         </h2>
-
         <p className="text-slate-400">
           I'm open to junior cloud and AI engineering roles. Whether you have a
           question or just want to say hi, my inbox is open.
