@@ -27,7 +27,7 @@ export default function Contact() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/SanchoCruze"
+            href="https://github.com/MawethuMadanile"
             target="_blank"
             rel="noreferrer"
             className="text-slate-400 transition hover:text-emerald-400"

@@ -8,25 +8,23 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: 'Project One',
+    title: 'Local AI Voice Assistant',
     description:
-      'A short description of what this project does and the problem it solves.',
-    tech: ['React', 'TypeScript', 'Tailwind'],
-    repoUrl: 'https://gitlab.com/your-username/project-one',
-    liveUrl: 'https://example.com',
+      'A fully offline voice assistant with no cloud dependencies. Speech flows from the microphone through voice activity detection, transcription, a local language model and speech synthesis. Built to run on a low-spec laptop with no dedicated GPU.',
+    tech: [
+      'Python',
+      'faster-whisper',
+      'llama.cpp',
+      'Silero VAD',
+      'Kokoro TTS',
+    ],
+    repoUrl: 'https://github.com/MawethuMadanile/Local-AI-Voice-Assistant',
   },
   {
-    title: 'Project Two',
+    title: 'Switchboard',
     description:
-      'A short description of what this project does and the problem it solves.',
-    tech: ['Java', 'PostgreSQL'],
-    repoUrl: 'https://gitlab.com/your-username/project-two',
-  },
-  {
-    title: 'Project Three',
-    description:
-      'A short description of what this project does and the problem it solves.',
-    tech: ['Python', 'AWS'],
-    repoUrl: 'https://gitlab.com/your-username/project-three',
+      'Replace this with what Switchboard does and the problem it solves.',
+    tech: ['Python'],
+    repoUrl: 'https://github.com/MawethuMadanile/switchboard',
   },
 ]
